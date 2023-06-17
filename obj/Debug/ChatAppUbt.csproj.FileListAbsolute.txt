@@ -1,0 +1,12 @@
+C:\Users\Anchuelo\source\repos\ChatAppUbt\obj\Debug\ChatAppUbt.csprojAssemblyReference.cache
+C:\Users\Anchuelo\source\repos\ChatAppUbt\obj\Debug\ChatAppUbt.Properties.Resources.resources
+C:\Users\Anchuelo\source\repos\ChatAppUbt\obj\Debug\ChatAppUbt.csproj.GenerateResource.cache
+C:\Users\Anchuelo\source\repos\ChatAppUbt\obj\Debug\ChatAppUbt.csproj.CoreCompileInputs.cache
+C:\Users\Anchuelo\source\repos\ChatAppUbt\bin\Debug\ChatAppUbt.exe.config
+C:\Users\Anchuelo\source\repos\ChatAppUbt\bin\Debug\ChatAppUbt.exe
+C:\Users\Anchuelo\source\repos\ChatAppUbt\bin\Debug\ChatAppUbt.pdb
+C:\Users\Anchuelo\source\repos\ChatAppUbt\obj\Debug\ChatAppUbt.exe
+C:\Users\Anchuelo\source\repos\ChatAppUbt\obj\Debug\ChatAppUbt.pdb
+C:\Users\Anchuelo\source\repos\ChatAppUbt\obj\Debug\ChatAppUbt.Form1.resources
+C:\Users\Anchuelo\source\repos\ChatAppUbt\obj\Debug\ChatAppUbt.Client.resources
+C:\Users\Anchuelo\source\repos\ChatAppUbt\obj\Debug\ChatAppUbt.Server.resources
